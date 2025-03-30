@@ -1,14 +1,5 @@
-from ucimlrepo import fetch_ucirepo 
-  
-# fetch dataset 
-heart_disease = fetch_ucirepo(id=45) 
-  
-# data (as pandas dataframes) 
-X = heart_disease.data.features 
-y = heart_disease.data.targets 
-  
-# metadata 
-print(heart_disease.metadata) 
-  
-# variable information 
-print(heart_disease.variables) 
+import pandas as pd
+
+# Load data
+temp_df = pd.read_excel("temperature_data.xlsx")
+energy_df = pd.read_excel("energy_consumption.xlsx")
