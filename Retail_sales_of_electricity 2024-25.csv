@@ -1,0 +1,70 @@
+Retail sales of electricity,,,,,,,,,,,,,,,
+"https://www.eia.gov/electricity/data/browser/#/topic/5?agg=1,0&geo=vvvvvvvvvvvvo&endsec=8&linechart=ELEC.SALES.US-RES.M&columnchart=ELEC.SALES.US-RES.M&map=ELEC.SALES.US-RES.M&freq=M&start=202401&end=202501&ctype=linechart&ltype=pin&rtype=s&pin=&rse=0&maptype=0",,,,,,,,,,,,,,,
+Sat Mar 29 2025 20:02:48 GMT-0300 (Atlantic Daylight Time),,,,,,,,,,,,,,,
+Source: U.S. Energy Information Administration,,,,,,,,,,,,,,,
+description,units,source key,Jan-24,Feb-24,Mar-24,Apr-24,May-24,Jun-24,Jul-24,Aug-24,Sep-24,Oct-24,Nov-24,Dec-24,Jan-25
+Retail sales of electricity,million kilowatthours,,,,,,,,,,,,,,
+All sectors,,ELEC.SALES.US-ALL.M,,,,,,,,,,,,,
+Residential,million kilowatthours,ELEC.SALES.US-RES.M,,,,,,,,,,,,,
+Residential : United States,million kilowatthours,ELEC.SALES.US-RES.M,142948,116110,102625,95053,107862,139149,165592,159643,128326,106874,99356,126068,152648
+Residential : New England,million kilowatthours,ELEC.SALES.NEW-RES.M,4623,4167,3922,3517,3406,3973,5140,4692,3613,3348,3407,4363,4946
+Residential : Connecticut,million kilowatthours,ELEC.SALES.CT-RES.M,1276,1055,984,879,883,1174,1508,1321,888,831,904,1272,1383
+Residential : Maine,million kilowatthours,ELEC.SALES.ME-RES.M,476,474,459,438,387,356,415,434,385,336,321,398,464
+Residential : Massachusetts,million kilowatthours,ELEC.SALES.MA-RES.M,1895,1763,1670,1477,1449,1633,2066,1893,1590,1462,1462,1760,2020
+Residential : New Hampshire,million kilowatthours,ELEC.SALES.NH-RES.M,458,425,390,349,326,394,553,476,342,325,348,463,528
+Residential : Rhode Island,million kilowatthours,ELEC.SALES.RI-RES.M,289,248,230,211,209,243,381,375,248,236,216,244,304
+Residential : Vermont,million kilowatthours,ELEC.SALES.VT-RES.M,230,203,189,163,152,173,216,194,160,157,156,226,247
+Residential : Middle Atlantic,million kilowatthours,ELEC.SALES.MAT-RES.M,12689,11039,9966,9098,9119,12366,16315,14569,10315,8695,9046,12084,14157
+Residential : New Jersey,million kilowatthours,ELEC.SALES.NJ-RES.M,2560,2149,1825,1840,2144,3347,4280,3586,2023,1829,1866,2346,2732
+Residential : New York,million kilowatthours,ELEC.SALES.NY-RES.M,4438,4193,3773,3511,3368,4410,6035,5680,4360,3451,3419,4433,5060
+Residential : Pennsylvania,million kilowatthours,ELEC.SALES.PA-RES.M,5690,4696,4368,3747,3607,4608,6000,5304,3932,3415,3761,5304,6365
+Residential : East North Central,million kilowatthours,ELEC.SALES.ENC-RES.M,18474,14852,13550,12199,13539,17681,20002,19520,14974,12173,12459,17008,19659
+Residential : Illinois,million kilowatthours,ELEC.SALES.IL-RES.M,4349,3328,3062,2799,3592,4754,5071,4932,3694,2886,2847,3865,4477
+Residential : Indiana,million kilowatthours,ELEC.SALES.IN-RES.M,3467,2856,2385,2119,2312,3068,3443,3497,2701,2088,2142,3146,3800
+Residential : Michigan,million kilowatthours,ELEC.SALES.MI-RES.M,3099,2564,2558,2240,2467,3155,3643,3436,2654,2233,2411,3028,3223
+Residential : Ohio,million kilowatthours,ELEC.SALES.OH-RES.M,5368,4358,3806,3492,3641,4809,5573,5481,4155,3453,3421,4849,5905
+Residential : Wisconsin,million kilowatthours,ELEC.SALES.WI-RES.M,2190,1745,1739,1550,1527,1896,2272,2175,1770,1513,1639,2120,2254
+Residential : West North Central,million kilowatthours,ELEC.SALES.WNC-RES.M,11769,8829,7960,7073,7244,9616,11046,10713,8512,7054,7303,10116,11865
+Residential : Iowa,million kilowatthours,ELEC.SALES.IA-RES.M,1562,1217,1126,1015,983,1270,1442,1407,1138,950,1009,1415,1619
+Residential : Kansas,million kilowatthours,ELEC.SALES.KS-RES.M,1404,985,852,815,977,1569,1640,1649,1201,952,861,1118,1381
+Residential : Minnesota,million kilowatthours,ELEC.SALES.MN-RES.M,2324,1896,1836,1605,1548,1760,2218,2060,1775,1565,1690,2194,2390
+Residential : Missouri,million kilowatthours,ELEC.SALES.MO-RES.M,4046,2935,2442,2202,2422,3504,3810,3762,2875,2197,2269,3294,4045
+Residential : Nebraska,million kilowatthours,ELEC.SALES.NE-RES.M,1237,846,781,684,673,846,1099,1020,805,722,665,1006,1186
+Residential : North Dakota,million kilowatthours,ELEC.SALES.ND-RES.M,615,468,478,361,303,298,383,369,330,322,429,572,648
+Residential : South Dakota,million kilowatthours,ELEC.SALES.SD-RES.M,581,482,445,390,337,368,453,445,388,346,380,517,596
+Residential : South Atlantic,million kilowatthours,ELEC.SALES.SAT-RES.M,36083,29137,25863,24388,29850,37262,42577,40314,32901,27497,25928,32770,41026
+Residential : Delaware,million kilowatthours,ELEC.SALES.DE-RES.M,487,464,445,341,326,447,597,548,426,300,305,493,576
+Residential : District Of Columbia,million kilowatthours,ELEC.SALES.DC-RES.M,222,204,177,156,172,210,296,270,204,151,148,235,271
+Residential : Florida,million kilowatthours,ELEC.SALES.FL-RES.M,10196,8962,9036,9217,12245,13819,15302,15049,13773,11534,9766,9439,11062
+Residential : Georgia,million kilowatthours,ELEC.SALES.GA-RES.M,6074,4660,3863,3755,4545,6168,6818,6740,5127,4254,3919,5270,6820
+Residential : Maryland,million kilowatthours,ELEC.SALES.MD-RES.M,2880,2386,2072,1726,1856,2487,3098,2693,1923,1637,1853,2789,3390
+Residential : North Carolina,million kilowatthours,ELEC.SALES.NC-RES.M,6632,4988,4043,3811,4518,5876,6745,6234,4832,3999,4121,5819,7636
+Residential : South Carolina,million kilowatthours,ELEC.SALES.SC-RES.M,3281,2483,2019,1955,2437,3233,3856,3427,2723,2159,1989,2914,3792
+Residential : Virginia,million kilowatthours,ELEC.SALES.VA-RES.M,5009,3981,3344,2748,3068,4193,4814,4398,3203,2811,3062,4612,5967
+Residential : West Virginia,million kilowatthours,ELEC.SALES.WV-RES.M,1302,1007,865,680,684,828,1051,957,690,652,765,1199,1512
+Residential : East South Central,million kilowatthours,ELEC.SALES.ESC-RES.M,12899,10556,8093,7409,8627,11013,13273,12938,10725,8216,7449,10371,13505
+Residential : Alabama,million kilowatthours,ELEC.SALES.AL-RES.M,3454,2554,2036,1926,2501,3178,3588,3611,2880,2227,2072,2789,3738
+Residential : Kentucky,million kilowatthours,ELEC.SALES.KY-RES.M,2944,2255,1870,1640,1850,2306,2807,2662,2083,1644,1643,2388,3172
+Residential : Mississippi,million kilowatthours,ELEC.SALES.MS-RES.M,1868,1553,1150,1072,1355,1802,2100,2105,1829,1402,1187,1432,1908
+Residential : Tennessee,million kilowatthours,ELEC.SALES.TN-RES.M,4633,4194,3037,2770,2921,3728,4777,4560,3933,2943,2546,3763,4686
+Residential : West South Central,million kilowatthours,ELEC.SALES.WSC-RES.M,22173,17383,14136,14134,18185,24727,27814,28753,23906,19504,15336,17139,22865
+Residential : Arkansas,million kilowatthours,ELEC.SALES.AR-RES.M,2070,1668,1190,1079,1217,1695,2055,2006,1714,1387,1109,1500,2085
+Residential : Louisiana,million kilowatthours,ELEC.SALES.LA-RES.M,2857,2328,1823,1790,2322,3176,3614,3598,3183,2447,2041,2272,3027
+Residential : Oklahoma,million kilowatthours,ELEC.SALES.OK-RES.M,2553,1732,1494,1373,1757,2532,2885,2948,2195,1715,1394,1985,2583
+Residential : Texas,million kilowatthours,ELEC.SALES.TX-RES.M,14693,11656,9628,9892,12888,17323,19260,20201,16814,13955,10793,11382,15170
+Residential : Mountain,million kilowatthours,ELEC.SALES.MTN-RES.M,9269,7789,7379,6966,8182,11643,14258,13322,10553,8541,7294,8397,9359
+Residential : Arizona,million kilowatthours,ELEC.SALES.AZ-RES.M,2748,2206,2147,2301,3105,4693,5797,5299,4370,3372,2087,2353,2680
+Residential : Colorado,million kilowatthours,ELEC.SALES.CO-RES.M,1814,1598,1529,1360,1469,1947,2235,2310,1832,1500,1558,1668,1898
+Residential : Idaho,million kilowatthours,ELEC.SALES.ID-RES.M,1101,879,840,669,640,723,953,845,660,625,832,1027,1120
+Residential : Montana,million kilowatthours,ELEC.SALES.MT-RES.M,675,611,522,437,395,377,464,483,379,365,438,595,646
+Residential : Nevada,million kilowatthours,ELEC.SALES.NV-RES.M,940,801,768,801,1070,1786,2257,1947,1464,1096,793,923,975
+Residential : New Mexico,million kilowatthours,ELEC.SALES.NM-RES.M,653,560,480,454,519,732,840,837,661,557,526,591,682
+Residential : Utah,million kilowatthours,ELEC.SALES.UT-RES.M,965,843,814,714,779,1177,1469,1363,994,838,817,934,996
+Residential : Wyoming,million kilowatthours,ELEC.SALES.WY-RES.M,372,290,280,229,203,208,242,237,191,187,242,305,362
+Residential : Pacific Contiguous,million kilowatthours,ELEC.SALES.PCC-RES.M,14513,11953,11371,9910,9349,10506,14794,14431,12434,11449,10711,13384,14814
+Residential : California,million kilowatthours,ELEC.SALES.CA-RES.M,7549,6297,5910,5406,5265,6696,10010,10050,8638,7411,5816,7074,7927
+Residential : Oregon,million kilowatthours,ELEC.SALES.OR-RES.M,2269,1830,1779,1450,1354,1336,1751,1587,1329,1352,1718,2119,2271
+Residential : Washington,million kilowatthours,ELEC.SALES.WA-RES.M,4694,3825,3681,3054,2731,2475,3033,2794,2467,2686,3176,4190,4615
+Residential : Pacific Noncontiguous,million kilowatthours,ELEC.SALES.PCN-RES.M,456,406,386,359,361,362,374,391,392,397,423,438,452
+Residential : Alaska,million kilowatthours,ELEC.SALES.AK-RES.M,228,210,191,164,149,140,145,147,143,161,188,212,212
+Residential : Hawaii,million kilowatthours,ELEC.SALES.HI-RES.M,227,195,195,195,211,222,229,244,249,236,235,226,240
